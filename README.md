@@ -1,7 +1,7 @@
 ### Olá! Sou Fernanda Piedade, aspirante a dev web 👋
 
 - 🔭 Hoje trabalho com marketing digital
-- 🌱 Estudando Phyton, JavaScript, CSS
+- 🌱 Estudando HTML, CSS, Phyton, JavaScript
 - 😄 Pronouns: ela/dela
 
 <div align="center">
